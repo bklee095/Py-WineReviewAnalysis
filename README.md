@@ -24,4 +24,3 @@ This dataset consists of a total of 11 columns on the wines, including the count
  
  ![carbon(2)](https://user-images.githubusercontent.com/74638365/140630214-86d760b1-ba82-43fa-b99d-ab6f219eaa3c.png)
  
-![Capture](https://user-images.githubusercontent.com/74638365/140630272-910a5b81-ef85-4585-83fa-3814a1522b7e.PNG)
