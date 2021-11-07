@@ -24,3 +24,18 @@ This dataset consists of a total of 11 columns on the wines, including the count
  
  ![carbon(2)](https://user-images.githubusercontent.com/74638365/140630214-86d760b1-ba82-43fa-b99d-ab6f219eaa3c.png)
  
+ Remove attribute "region_2" as most of it is missing values and it isn't important for this analysis
+ 
+ 
+![Capture](https://user-images.githubusercontent.com/74638365/140663740-72f4b591-7624-46fe-8cef-9383469b8361.PNG)
+
+![carbon(3)](https://user-images.githubusercontent.com/74638365/140663797-400781fb-f371-4e87-afdf-da947202bff9.png)
+![Capture1](https://user-images.githubusercontent.com/74638365/140663914-37dfc3ff-a034-42fa-8967-8d026f43d043.PNG)
+
+_histogram and boxplots of points and prices of the wine_
+
+Spotting multiple outliers in the price range
+
+![Capture2](https://user-images.githubusercontent.com/74638365/140663884-0ca305d6-f812-44e5-affa-c9e0df5f7717.PNG)
+
+_Points vs Price scatterplot_
